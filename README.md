@@ -1,5 +1,5 @@
 # Notes-app
-aking notes is an important part of the life of every student. This app helps to take notes and manage all the live data in the app.
+Taking notes is an important part of the life of every student. This app helps to take notes and manage all the live data in the app.
 The app is basically implemented using [Android Architecture Components ](https://developer.android.com/topic/libraries/architecture)
 Architecture components helpes in making the code of app more robust and easy to understand.
 ## Some Prerequisites:
